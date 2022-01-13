@@ -1,5 +1,5 @@
 tup1 = (1,2,3,4)
-
+print(tup1[2])
 #print(tuple[-4:-2])
 
 tuple1 = list(tup1)
