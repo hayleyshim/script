@@ -1,5 +1,7 @@
 class FourCal:
-    pass
+    def setdata(self, first, second):
+        self.first = first
+        self.second = second
 
 a = FourCal()
-type(a)
+FourCal.setdata(a, 4, 2)
