@@ -1,0 +1,206 @@
+WARNING: MINIO_ACCESS_KEY and MINIO_SECRET_KEY are deprecated.
+         Please use MINIO_ROOT_USER and MINIO_ROOT_PASSWORD
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ You are running an older version of MinIO released 4 weeks ago ┃
+┃ Update: 
+Run `mc admin update`                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Exiting on signal: INTERRUPT
+WARNING: MINIO_ACCESS_KEY and MINIO_SECRET_KEY are deprecated.
+         Please use MINIO_ROOT_USER and MINIO_ROOT_PASSWORD
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ You are running an older version of MinIO released 4 weeks ago ┃
+┃ Update: 
+Run `mc admin update`                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.161.242:9000/app/minio/sample/data http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+Waiting for atleast 1 remote servers to be online for bootstrap check
+Following servers are currently offline or unreachable [http://121.141.152.77:9000/app/minio/sample/data http://121.141.148.145:9000/app/minio/sample/data]
+
+API: SYSTEM()
+Time: 13:36:56 UTC 01/30/2022
+Error: Marking http://121.141.161.242:9000/minio/storage/app/minio/sample/data/v43 temporary offline; caused by Post "http://121.141.161.242:9000/minio/storage/app/minio/sample/data/v43/readall?disk-id=&file-path=format.json&volume=.minio.sys": dial tcp 121.141.161.242:9000: connect: connection refused (*fmt.wrapError)
+       6: internal/rest/client.go:149:rest.(*Client).Call()
+       5: cmd/storage-rest-client.go:152:cmd.(*storageRESTClient).call()
+       4: cmd/storage-rest-client.go:520:cmd.(*storageRESTClient).ReadAll()
+       3: cmd/format-erasure.go:406:cmd.loadFormatErasure()
+       2: cmd/format-erasure.go:326:cmd.loadFormatErasureAll.func1()
+       1: internal/sync/errgroup/errgroup.go:123:errgroup.(*Group).Go.func1()
+
+API: SYSTEM()
+Time: 13:36:56 UTC 01/30/2022
+Error: Marking http://121.141.152.77:9000/minio/storage/app/minio/sample/data/v43 temporary offline; caused by Post "http://121.141.152.77:9000/minio/storage/app/minio/sample/data/v43/readall?disk-id=&file-path=format.json&volume=.minio.sys": dial tcp 121.141.152.77:9000: connect: connection refused (*fmt.wrapError)
+       6: internal/rest/client.go:149:rest.(*Client).Call()
+       5: cmd/storage-rest-client.go:152:cmd.(*storageRESTClient).call()
+       4: cmd/storage-rest-client.go:520:cmd.(*storageRESTClient).ReadAll()
+       3: cmd/format-erasure.go:406:cmd.loadFormatErasure()
+       2: cmd/format-erasure.go:326:cmd.loadFormatErasureAll.func1()
+       1: internal/sync/errgroup/errgroup.go:123:errgroup.(*Group).Go.func1()
+
+API: SYSTEM()
+Time: 13:36:56 UTC 01/30/2022
+Error: Marking http://121.141.148.145:9000/minio/storage/app/minio/sample/data/v43 temporary offline; caused by Post "http://121.141.148.145:9000/minio/storage/app/minio/sample/data/v43/readall?disk-id=&file-path=format.json&volume=.minio.sys": dial tcp 121.141.148.145:9000: connect: connection refused (*fmt.wrapError)
+       6: internal/rest/client.go:149:rest.(*Client).Call()
+       5: cmd/storage-rest-client.go:152:cmd.(*storageRESTClient).call()
+       4: cmd/storage-rest-client.go:520:cmd.(*storageRESTClient).ReadAll()
+       3: cmd/format-erasure.go:406:cmd.loadFormatErasure()
+       2: cmd/format-erasure.go:326:cmd.loadFormatErasureAll.func1()
+       1: internal/sync/errgroup/errgroup.go:123:errgroup.(*Group).Go.func1()
+ERROR Unable to initialize backend: Unsupported backend format [fs] found on /app/minio/sample/data
